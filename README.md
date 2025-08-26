@@ -1,15 +1,15 @@
 # 💫 About Me:
 Hey!, I am Savjeet Singh. I looking for a Software Developement role as a fresher.
-<br> * My Technical Skills are :
-<br> * Python
-<br> * Data Science
-<br> * Machine Learning
-<br> * NextJs
-<br> * Java
-<br> * C++
-<br> * Neural Networks
-<br> * SQL
-<br> * NoSQL
+* <br>My Technical Skills are :
+* <br>Python
+* <br>Data Science
+* <br>Machine Learning
+* <br>NextJs
+* <br>Java
+* <br>C++
+* <br> Neural Networks
+* <br> SQL
+* <br> NoSQL
 
 
 ## 🌐 Socials:
